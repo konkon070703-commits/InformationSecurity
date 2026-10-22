@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AesEncryption/AesEncryption.csproj" Id="89391c99-f074-465c-8120-a7254d110e2a" />
+  <Project Path="RsaEncryption/RsaEncryption.csproj" Id="5135258a-3b00-4566-9dae-86ae62e10b68" />
+</Solution>
